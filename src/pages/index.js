@@ -12,7 +12,8 @@ import Page from './[...slug]';
 export async function getStaticProps({ params }) {
     console.log('Page [index] getStaticProps, params: ', params);
     const props = await sourcebitDataClient.getStaticPropsForPageAtPath('/');
-    return { props };
+    const posts = await generateRssFeed();
+    return { props, posts, ogImage, baseUrl };
 }
 
 export default Page;
