@@ -6,7 +6,7 @@ sections:
       I'm a highly-skilled thought leader with a passion for cloud-native
       computing and building engaged developer communities.
     section_id: hero
-    title: 'Hi, I''m James Bohrman'
+    title: 'Hi, I'm James Bohrman'
     type: section_hero
   - actions:
       - icon_class: linkedin
@@ -39,23 +39,14 @@ seo:
       value: website
     - keyName: property
       name: 'og:title'
-      value: James D. Bohrman Personal Site
+      value: James D. Bohrman
     - keyName: property
       name: 'og:description'
     - keyName: property
       name: 'og:image'
       relativeUrl: true
-      value: images/4.jpg
-    - name: 'twitter:card'
-      value: summary_large_image
-    - name: 'twitter:title'
-      value: My Twitter
-    - name: 'twitter:description'
-      value: Twitter Page of James D. Bohrman
-    - name: 'twitter:image'
-      relativeUrl: true
-      value: images/4.jpg
-  title: James D. Bohrman Personal Site
+      value: images/avatar.png
+  title: James D. Bohrman
   type: stackbit_page_meta
 stackbit_url_path: /
 title: Home
