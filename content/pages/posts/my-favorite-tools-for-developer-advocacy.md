@@ -15,12 +15,12 @@ seo:
       value: article
     - keyName: property
       name: 'og:title'
-      value: Basic Rules For Walking In The Mountains
+      value: My favorite tools and integrations to leverage as a Developer Advocado 🥑
     - keyName: property
       name: 'og:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+            Developer Advocacy requires building a foundation for developers to bring
+            their voices together and share them with your organization.
     - keyName: property
       name: 'og:image'
       relativeUrl: true
@@ -28,11 +28,11 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: Basic Rules For Walking In The Mountains
+      value: My favorite tools and integrations to leverage as a Developer Advocado 🥑
     - name: 'twitter:description'
       value: >-
-        Hiking refers to difficult walking through dense forest, undergrowth, or
-        bushes.
+        Developer Advocacy requires building a foundation for developers to bring
+        their voices together and share them with your organization.
     - name: 'twitter:image'
       relativeUrl: true
       value: images/6.jpg
