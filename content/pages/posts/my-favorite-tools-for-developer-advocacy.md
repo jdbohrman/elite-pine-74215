@@ -15,7 +15,7 @@ seo:
       value: article
     - keyName: property
       name: 'og:title'
-      value: My favorite tools and integrations to leverage as a Developer Avocado
+      value: My favorite tools and integrations to leverage as a Developer Avocado 🥑
     - keyName: property
       name: 'og:description'
       value: >-
@@ -28,7 +28,7 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: My favorite tools and integrations to leverage as a Developer Avocado
+      value: My favorite tools and integrations to leverage as a Developer Avocado 🥑
     - name: 'twitter:description'
       value: >-
         Developer Advocacy requires building a foundation for developers to bring
@@ -36,14 +36,14 @@ seo:
     - name: 'twitter:image'
       relativeUrl: true
       value: images/6.jpg
-  title: "My favorite tools and integrations to leverage as a Developer Avocado"
+  title: "My favorite tools and integrations to leverage as a Developer Avocado 🥑"
   type: stackbit_page_meta
 stackbit_url_path: /posts/my-favorite-tools-for-developer-advocacy
 subtitle: Here's a list of the tools I find most valuable as a Developer Advocate
 thumb_img_alt: integrations-tools
 thumb_img_path: >-
   https://cdn.sanity.io/images/2m8mhojy/production/cf79fc8fe6b214f40a12f715c808061d5437deea-1320x960.jpg
-title: "My favorite tools and integrations to leverage as a Developer Avocado"
+title: "My favorite tools and integrations to leverage as a Developer Avocado 🥑"
 ---
 ### Introduction
 
