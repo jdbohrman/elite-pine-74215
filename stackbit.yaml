@@ -2,7 +2,7 @@ stackbitVersion: ~0.3.0
 ssgName: nextjs
 ssgVersion: 9.4.4
 buildCommand: npm run build
-publishDir: /
+publishDir: out
 staticDir: public
 uploadDir: images
 dataDir: content/data
