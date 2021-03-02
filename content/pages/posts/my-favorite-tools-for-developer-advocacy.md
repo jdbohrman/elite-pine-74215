@@ -3,7 +3,7 @@ content_img_alt: integrations-tools
 content_img_path: >-
   https://cdn.sanity.io/images/2m8mhojy/production/cf79fc8fe6b214f40a12f715c808061d5437deea-1320x960.jpg
 date: '2021-02-25'
-excerpt: ' Just like the avocado''s journey from seed to tree, a sustainable Developer Advocacy program takes time to develop. In this blog post, I am going to share some of my favorite tools for building a vibrant developer community. Some of these tools may be familiar to you, and some may not be. '
+excerpt: ' Just like the avocado's journey from seed to tree, a sustainable Developer Advocacy program takes time to develop. In this blog post, I am going to share some of my favorite tools for building a vibrant developer community. Some of these tools may be familiar to you, and some may not be. '
 layout: post
 seo:
   description: >-
@@ -15,12 +15,12 @@ seo:
       value: article
     - keyName: property
       name: 'og:title'
-      value: My favorite tools and integrations to leverage as a Developer Advocado 🥑
+      value: My favorite tools and integrations to leverage as a Developer Avocado 🥑
     - keyName: property
       name: 'og:description'
       value: >-
-            Developer Advocacy requires building a foundation for developers to bring
-            their voices together and share them with your organization.
+        Developer Advocacy requires building a foundation for developers to bring
+        their voices together and share them with your organization.
     - keyName: property
       name: 'og:image'
       relativeUrl: true
@@ -28,22 +28,22 @@ seo:
     - name: 'twitter:card'
       value: summary_large_image
     - name: 'twitter:title'
-      value: My favorite tools and integrations to leverage as a Developer Advocado 🥑
+      value: Basic Rules For Walking In The Mountains
     - name: 'twitter:description'
       value: >-
-        Developer Advocacy requires building a foundation for developers to bring
-        their voices together and share them with your organization.
+        Hiking refers to difficult walking through dense forest, undergrowth, or
+        bushes.
     - name: 'twitter:image'
       relativeUrl: true
       value: images/6.jpg
-  title: "My favorite tools and integrations to leverage as a Developer Avocado \U0001F951"
+  title: "My favorite tools and integrations to leverage as a Developer Avocado 🥑"
   type: stackbit_page_meta
 stackbit_url_path: /posts/my-favorite-tools-for-developer-advocacy
 subtitle: Here's a list of the tools I find most valuable as a Developer Advocate
 thumb_img_alt: integrations-tools
 thumb_img_path: >-
   https://cdn.sanity.io/images/2m8mhojy/production/cf79fc8fe6b214f40a12f715c808061d5437deea-1320x960.jpg
-title: "My favorite tools and integrations to leverage as a Developer Avocado \U0001F951"
+title: "My favorite tools and integrations to leverage as a Developer Avocado 🥑"
 ---
 ### Introduction
 
