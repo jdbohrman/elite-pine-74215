@@ -7,7 +7,7 @@
     "dev": "next dev",
     "develop": "next dev",
     "fetch": "sourcebit fetch",
-    "build": "next build && next export && node rss.js",
+    "build": "next build && next export",
     "start": "next start"
   },
   "dependencies": {

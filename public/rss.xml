@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0">
+    <channel>
+        <title>James Bohrman Personal Site</title>
+        <link>http://bohrman.io</link>
+        <description>Personal Website and Blog of James D. Bohrman</description>
+        <lastBuildDate>Tue, 02 Mar 2021 02:18:24 GMT</lastBuildDate>
+        <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
+        <generator>https://github.com/jpmonette/feed</generator>
+        <language>en</language>
+        <copyright>©James Bohrman</copyright>
+    </channel>
+</rss>
