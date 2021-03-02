@@ -23,7 +23,7 @@ seo:
         their voices together and share them with your organization.
     - keyName: property
       name: 'og:image'
-      relativeUrl: false
+      relativeUrl: true
       value: images/6.jpg
     - name: 'twitter:card'
       value: summary_large_image
@@ -34,7 +34,7 @@ seo:
         Developer Advocacy requires building a foundation for developers to bring
         their voices together and share them with your organization.
     - name: 'twitter:image'
-      relativeUrl: false
+      relativeUrl: true
       value: images/6.jpg
   title: "My favorite tools and integrations to leverage as a Developer Avocado"
   type: stackbit_page_meta
